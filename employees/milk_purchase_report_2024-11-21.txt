@@ -1,0 +1,10 @@
+Milk Purchase Report
+====================
+
+ID: 1
+Milk Quantity: 30 Liters
+Milk Price: $70.00
+Total Price: $2,100.00
+Purchase Date: 2024-11-21
+--------------------
+
